@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">persona</string>
+    <string name="avatar_description">User Avatar</string>
+    <string name="chat_preview">Chat Title</string>
+    <string name="chat_content">Chat content will go here</string>
+    <string name="type_message">Type a message</string>
+    <string name="send">Send</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome</string>
+    <string name="map">Map</string>
+    <string name="home">Home</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="create_account">Dont have an account? Sign Up</string>
+    <string name="ai_friend">AI Friend</string>
+    <string name="register">Register</string>
+</resources>
